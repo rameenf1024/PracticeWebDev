@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgba(217, 220, 243, 0.571);
+}
+.top{
+    background-color: #15222B;
+    color: aliceblue;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+}
+.mess{
+  padding-left: 130px;
+}
+#com{
+    color: #FFDB58;
+}
+.map{
+    padding-left: 580px;
+}
+#loc{
+    color: #FFDB58;
+}
+.icons{
+    padding-left: 130px;
+    padding-right: 10px;
+}
+.icons:hover{
+    transition: 0s;
+    color: #FFDB58;
+    
+}
+.twit{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.twit:hover{
+    transition: 0s;
+    color: #FFDB58;
+}
+.google{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.google:hover{
+    transition: 0s;
+    color: #FFDB58;
+}
+.inst{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.inst:hover{
+    transition: 0s;
+    color: #FFDB58;
+}
+.mid{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+.env{
+    padding-left: 100px;
+    color: #FFDB58;
+}
+.en1{
+    padding-left: 10px;
+}
+.en2{
+    color: rgb(153, 161, 167);
+}
+.phone{
+    padding-left: 80px;
+    color:#FFDB58 ;
+}
+.ph1{
+    padding-left: 10px;
+}
+.ph2{
+    color: rgb(153, 161, 167); 
+}
+.mid2{
+    background-color: aliceblue;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 70px;
+    margin-top: 20px;
+    padding-left: 40px;    
+}
+.hom{
+    color: #FFDB58;
+}
+.ser{
+    padding-left: 40px;
+}
+.ser:hover{
+    transition: 1s;
+    color: #FFDB58;
+}
+.why{
+    padding-left: 40px;
+}
+.why:hover{
+    transition: 1s;
+    color: #FFDB58;
+}
+.our{
+    padding-left: 40px;
+}
+.our:hover{
+    transition: 1s;
+    color: #FFDB58;
+
+}
+.blog{
+    padding-left: 40px;
+}
+.blog:hover{
+    transition: 1s;
+    color: #FFDB58;
+
+}
+.con{
+    padding-left: 40px;
+}
+.con:hover{
+    transition: 1s;
+    color: #FFDB58;
+
+}
+.mail2{
+    display: flex;
+    border: black solid 2px;
+    border-radius: 30px;
+    margin-left: 300px;
+    padding: 10px 10px 10px 10px;   
+}
+#mail{
+    color: #FFDB58;
+}
+.admi{
+    display: flex;
+}
